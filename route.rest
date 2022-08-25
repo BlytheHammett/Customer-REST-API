@@ -1,0 +1,28 @@
+GET http://localhost:3000/customers
+
+###
+
+GET http://localhost:3000/customers/6308039cb1a553ba256c7cca
+
+###
+
+POST http://localhost:3000/customers
+Content-Type: application/json
+
+{
+    "name": "Test Name",
+    "productPurchased": "Test Product"
+}
+
+###
+
+DELETE http://localhost:3000/customers/6308039cb1a553ba256c7cca
+
+###
+
+PATCH http://localhost:3000/customers/63080365b1a553ba256c7cc6
+Content-Type: application/json
+
+{
+    "name": "New Name"
+}
