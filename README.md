@@ -6,6 +6,7 @@ This is a Node and Express project that allows you to store customer data in a M
 ## Installation
 
 npm install
+node server.js
 
 Install the REST VSCode extension
 ## Usage/Examples
