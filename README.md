@@ -1,7 +1,7 @@
 
 # Customer REST API
 
-This is a Node and Express project that allows you to store customer data in a MongoDB database. Since it's a REST API it allows the user to perform GET, PUT, POST, and DELETE requests on the database.
+This is a Node and Express project that allows you to store customer data in a MongoDB database.
 
 
 ## Installation
